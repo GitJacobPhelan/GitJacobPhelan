@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 I am currently a student at Leeds Beckett University studying Software Engineering. But this is not my first time programming; I took IT
-and computer science GCSE's in high school and went on to complete a BTEC in Digital Production, Design, and Development. 
+and computer science GCSE's in high school and went on to complete a BTEC in Digital Production, Design, and Development.
+
+Programming languages I have studied so far include: Python, HTML, Javascript, SQL, Dart(Flutter), PHP and C.
 
 You can reach me by email: JacobPhelan06@outlook.com
 
