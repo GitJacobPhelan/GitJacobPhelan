@@ -7,7 +7,7 @@ Programming languages I have studied so far include: Python, HTML, Javascript, S
 
 You can reach me by email: JacobPhelan06@outlook.com
 
-[Here's a link to my LinkedIn] (www.linkedin.com/in/jacob-phelan-29974527a/)
+Here's a link to my LinkedIn: www.linkedin.com/in/jacob-phelan-29974527a/
 
 He/Him
 
